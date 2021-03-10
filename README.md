@@ -1,5 +1,5 @@
 # Space_Invaders
-A Space Invader game written in Python using pygame
+A personal project where I created a Space Invader game written in Python using pygame
 
 # What I Learned  
 * Python: became more familiar with the syntax of python and how it works.     
