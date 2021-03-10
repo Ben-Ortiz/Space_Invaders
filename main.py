@@ -122,7 +122,7 @@ while running:
         bullet_state = "ready"
         score += 1
         print(score)
-        enemyX = random.randint(0, 736)
+        enemyX = random.randint(0, 735)
         enemyY = random.randint(50, 150)
 
     player(playerX, playerY)
